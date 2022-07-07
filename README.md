@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview Explain the purpose of this analysis.
-
+We were contracted to perform an analysis of the school district based on testing scores given to us through a database. After finishing the district's analysis for our employer, academic dishonesty is discovered in the school district. In order to uphold the state testing standards, we are asked to replace 9th grade scores for Thomas High School with NaN values and repeat the analysis.
 
 
 ## Results
